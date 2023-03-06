@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.table{	
+	border: 20px solid;
+	border-color: pink;
+}
+
+
+th {
+	  border-collapse: collapse;
+	
+	border-style:solid;
+}

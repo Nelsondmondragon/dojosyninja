@@ -1,0 +1,24 @@
+.dojo {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.dojo__form {
+  display: flex;
+  flex-direction: column;
+}
+.form__div {
+  display: flex;
+  justify-content: space-between;
+  /* width: 60%; */
+}
+
+.form__button {
+    margin-top: 2rem;
+  align-self: end;
+}
+
+
+.error{
+  color: brown;
+}
